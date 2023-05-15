@@ -1,6 +1,6 @@
 # OWNUSE
-DOMAIN-SUFFIX,emby.wtf,emby
-DOMAIN-KEYWORD,emby.wtf,emby
+DOMAIN-SUFFIX,emby.wtf,Emby
+DOMAIN-KEYWORD,emby.wtf,Emby
 
 # REPO: https://github.com/justdoiting/emby-rules
 DOMAIN-KEYWORD,emby
