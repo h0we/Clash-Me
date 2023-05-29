@@ -3,3 +3,4 @@ DOMAIN-KEYWORD,china
 DOMAIN-KEYWORD,chddns
 DOMAIN-KEYWORD,yxch
 IP-CIDR,10.1.0.0/16,no-resolve
+IP-CIDR,172.16.0.0/12,no-resolve
