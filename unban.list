@@ -38,6 +38,7 @@ DOMAIN,tracking.miui.com
 # General
 DOMAIN,app.adjust.com
 DOMAIN,bdtj.tagtic.cn
+DOMAIN-SUFFIX,teambition.net
 
 # Hypixel Network
 DOMAIN,rewards.hypixel.net
