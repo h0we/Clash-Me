@@ -8,3 +8,6 @@ IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,161.189.208.27/32,no-resolve
 IP-CIDR,161.189.184.29/32,no-resolve
 IP-CIDR,64.64.237.191/32,no-resolve
+IP-CIDR,158.101.211.0/24,no-resolve
+IP-CIDR,141.148.231.0/24,no-resolve
+IP-CIDR,64.64.237.0/24,no-resolve
