@@ -3,7 +3,7 @@ DOMAIN-KEYWORD,china
 DOMAIN-KEYWORD,yxch
 DOMAIN-KEYWORD,chenyuexin
 IP-CIDR,10.1.0.0/16,no-resolve
-IP-CIDR,145.56.0.0/16,no-resolve
+IP-CIDR,146.56.0.0/16,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,161.189.208.27/32,no-resolve
 IP-CIDR,161.189.184.29/32,no-resolve
