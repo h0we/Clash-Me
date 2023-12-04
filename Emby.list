@@ -1,6 +1,6 @@
 # OWNUSE
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-KEYWORD,emby.wtf
+DOMAIN-KEYWORD,ultramobile
 DOMAIN,code.chddns.com
 IP-CIDR,208.54.0.0/16,no-resolve
-DOMAIN-KEYWORD,ultramobile
