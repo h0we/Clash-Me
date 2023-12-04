@@ -2,5 +2,5 @@
 # DOMAIN-SUFFIX,emby.wtf,Emby
 # DOMAIN-KEYWORD,emby.wtf,Emby
 DOMAIN,code.chddns.com,Emby
-IP-CIDR,208.54.0.0/16
+IP-CIDR,208.54.0.0/16,no-resolve
 DOMAIN-KEYWORD,ultramobile
