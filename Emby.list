@@ -1,4 +1,5 @@
 # OWNUSE
-DOMAIN-SUFFIX,emby.wtf,Emby
-DOMAIN-KEYWORD,emby.wtf,Emby
+# DOMAIN-SUFFIX,emby.wtf,Emby
+# DOMAIN-KEYWORD,emby.wtf,Emby
 DOMAIN,code.chddns.com,Emby
+IP-CIDR,208.54.0.0/16
