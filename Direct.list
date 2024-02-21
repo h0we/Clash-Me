@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,chenyuexin
 DOMAIN-KEYWORD,synologydownload
 DOMAIN-SUFFIX,hetzner.cloud
 DOMAIN-SUFFIX,hetzner.com
+DOMAIN-SUFFIX,hetzner.company
 IP-CIDR,10.1.0.0/16,no-resolve
 IP-CIDR,146.56.0.0/16,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
