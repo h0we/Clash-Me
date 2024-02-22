@@ -1254,3 +1254,10 @@ IP-CIDR,216.39.152.0/21,no-resolve
 IP-CIDR,216.39.160.0/20,no-resolve
 IP-CIDR,216.137.32.0/19,no-resolve
 IP-CIDR,216.182.224.0/20,no-resolve
+
+# OWNUSE
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-KEYWORD,emby.wtf
+DOMAIN-KEYWORD,ultramobile
+DOMAIN,code.chddns.com
+IP-CIDR,208.54.0.0/16,no-resolve
