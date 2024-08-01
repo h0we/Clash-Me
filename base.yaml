@@ -35,7 +35,7 @@ secret: "000000"
 dns:
   enable: true
   listen: 0.0.0.0:53
-  ipv6: false
+  ipv6: true
 
   default-nameserver:
     - 61.139.2.69
