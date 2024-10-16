@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,hetzner.cloud
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,hetzner.company
 DOMAIN-SUFFIX,chdbits.xyz
+DOMAIN-SUFFIX,chddns.com
 IP-CIDR,10.1.0.0/16,no-resolve
 IP-CIDR,146.56.0.0/16,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
@@ -19,3 +20,4 @@ IP-CIDR,158.101.211.0/24,no-resolve
 IP-CIDR,141.148.231.0/24,no-resolve
 IP-CIDR,64.64.237.0/24,no-resolve
 IP-CIDR,172.36.0.0/16,no-resolve
+IP-CIDR,171.211.0.0/16,no-resolve
