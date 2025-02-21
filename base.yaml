@@ -33,9 +33,9 @@ secret: "000000"
 
 # DNS 服务器配置
 dns:
-  enable: true
+  enable: false
   listen: 0.0.0.0:53
-  ipv6: true
+  ipv6: false
 
   default-nameserver:
     - 61.139.2.69
