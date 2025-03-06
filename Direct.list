@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,chdbits.xyz
 DOMAIN-SUFFIX,chddns.com
 DOMAIN-SUFFIX,123pan.com
 DOMAIN-SUFFIX,123pan.cn
+DOMAIN-SUFFIX,123684.com
 IP-CIDR,10.1.0.0/16,no-resolve
 IP-CIDR,146.56.0.0/16,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
