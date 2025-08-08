@@ -1,4 +1,6 @@
 # Xbox
-DOMAIN-SUFFIX,xboxlive.com
+# DOMAIN-SUFFIX,xboxlive.com
 # PT
 DOMAIN-SUFFIX,torrentleech.org
+
+IP-CIDR,69.10.60.0/24,no-resolve
