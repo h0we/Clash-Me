@@ -4,3 +4,5 @@
 DOMAIN-SUFFIX,torrentleech.org
 
 IP-CIDR,69.10.60.0/24,no-resolve
+# hz
+IP-CIDR,116.202.50.0/24,no-resolve
