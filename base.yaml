@@ -33,7 +33,7 @@ secret: "000000"
 
 # DNS 服务器配置
 dns:
-  enable: true
+  enable: false
   listen: 0.0.0.0:53
   ipv6: true
 
