@@ -1,0 +1,57 @@
+# ========================================================
+# P2P / BT / 常见下载与 UDP 协议直连规则 (P2P.list)
+# 作用：强制 P2P 下载、BT 传输、偷跑上行流量走直连，保护代理节点带宽与 VPS IP
+# ========================================================
+
+# ----- 1. 常见 BT / PT 下载监听端口 (强制直连) -----
+DST-PORT,6881-6889
+DST-PORT,8999
+DST-PORT,51413
+
+# ----- 2. P2P 协议特征与 Tracker 关键词 (强制直连) -----
+DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,tracker
+DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,peer
+DOMAIN-KEYWORD,subhd
+DOMAIN-SUFFIX,announce.php
+DOMAIN-SUFFIX,torrent
+
+# ----- 3. 常见 P2P / BT 下载工具进程名 (强制直连) -----
+PROCESS-NAME,qbittorrent
+PROCESS-NAME,qbittorrent.exe
+PROCESS-NAME,Transmission
+PROCESS-NAME,transmission-daemon
+PROCESS-NAME,transmission-qt
+PROCESS-NAME,BitComet
+PROCESS-NAME,BitComet.exe
+PROCESS-NAME,BitComet_x64.exe
+PROCESS-NAME,uTorrent
+PROCESS-NAME,uTorrent.exe
+PROCESS-NAME,Thunder
+PROCESS-NAME,Thunder.exe
+PROCESS-NAME,DownloadService
+PROCESS-NAME,aria2c
+PROCESS-NAME,aria2c.exe
+PROCESS-NAME,fdm
+PROCESS-NAME,fdm.exe
+PROCESS-NAME,baidunetdisk
+PROCESS-NAME,baidunetdisk.exe
+PROCESS-NAME,weiyun
+PROCESS-NAME,weiyun.exe
+PROCESS-NAME,PikPak
+PROCESS-NAME,PikPak.exe
+PROCESS-NAME,Motrix
+
+# ----- 4. 国内应用 P2P 偷跑上行 CDN 域名 (强制直连) -----
+# 避免爱优腾、B站等国内播放器通过 P2P 偷偷消耗手机上传流量
+DOMAIN-KEYWORD,p2pcdn
+DOMAIN-KEYWORD,p2p
+DOMAIN-SUFFIX,p2p.bilibili.com
+DOMAIN-SUFFIX,mcdn.bilivideo.cn
+DOMAIN-SUFFIX,szbdyd.com
+DOMAIN-SUFFIX,ourdvs.com
+DOMAIN-SUFFIX,xycdn.com
+DOMAIN-SUFFIX,v1.p2p.douyucdn.cn
+DOMAIN-SUFFIX,v2.p2p.douyucdn.cn
+DOMAIN-SUFFIX,v3.p2p.douyucdn.cn
